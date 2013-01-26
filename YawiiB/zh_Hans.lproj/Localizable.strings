@@ -1,0 +1,108 @@
+/* app_name_lbl */ 
+ "app_name_lbl" = "Yamii for Business"; 
+
+/* add_special_lbl */ 
+ "add_special_lbl" = "新建优惠活动"; 
+
+/* email_lbl */ 
+ "email_lbl" = "电子邮件地址"; 
+
+/* password_lbl */ 
+ "password_lbl" = "密码"; 
+
+/* special_lbl */ 
+ "special_lbl" = "优惠"; 
+
+/* login_lbl */ 
+ "login_lbl" = "登录"; 
+
+/* logout_lbl */ 
+ "logout_lbl" = "登出"; 
+
+/* enter_password_msg */ 
+ "enter_password_msg" = "请输入密码"; 
+
+/* discount_invalid_msg */ 
+ "discount_invalid_msg" = "折扣无效"; 
+
+/* login_fail_msg */ 
+ "login_fail_msg" = "登录失败, 请稍候再试!"; 
+
+/* forget_password_lbl */ 
+ "forget_password_lbl" = "忘记密码?"; 
+
+/* yamii_lbl */ 
+ "yamii_lbl" = "Yamii"; 
+
+/* for_business_lbl */ 
+ "for_business_lbl" = "for Business"; 
+
+/* wake_up_your_customers_lbl */ 
+ "wake_up_your_customers_lbl" = "Wake up your customers"; 
+
+/* normal_price_lbl */ 
+ "normal_price_lbl" = "原价"; 
+
+/* special_price_lbl */ 
+ "special_price_lbl" = "特价"; 
+
+/* discount_smaller_msg */ 
+ "discount_smaller_msg" = "打折幅度不能低于20%!"; 
+
+/* content_hint_lbl */ 
+ "content_hint_lbl" = "打折内容是? 比如, Chinese lunch buffet, including dessert."; 
+
+/* no_special_content_msg */ 
+ "no_special_content_msg" = "请输入打折内容."; 
+
+/* time_until_lbl */ 
+ "time_until_lbl" = "结束时间:"; 
+
+/* num_of_offers_lbl */ 
+ "num_of_offers_lbl" = "优惠数量:"; 
+
+/* unlimited_lbl */ 
+ "unlimited_lbl" = "无限制"; 
+
+/* cannot_combine_lbl */ 
+ "cannot_combine_lbl" = "不能与其他优惠合并使用。"; 
+
+/* preview_lbl */ 
+ "preview_lbl" = "预览"; 
+
+/* send_btn */ 
+ "send_btn" = "发布优惠"; 
+
+/* sending_msg */ 
+ "sending_msg" = "正在发送，请稍候..."; 
+
+/* send_confirm_lbl */ 
+ "send_confirm_lbl" = "确认发布"; 
+
+/* send_confirm_msg */ 
+ "send_confirm_msg" = "优惠一旦发布，则不能再修改或删除! 确定要发送这个优惠吗?"; 
+
+/* send_confirm_ok_btn */ 
+ "send_confirm_ok_btn" = "确认"; 
+
+/* send_confirm_cancel_btn */ 
+ "send_confirm_cancel_btn" = "取消"; 
+
+/* send_success_msg */ 
+ "send_success_msg" = "优惠活动已经发送成功! 耐心等待, 惊喜不断!"; 
+
+/* send_failure_msg */ 
+ "send_failure_msg" = "发送失败! 请稍后再试."; 
+
+/* login_wait_msg */ 
+ "login_wait_msg" = "正在登录，请稍候"; 
+
+/* sending_btn */ 
+ "sending_btn" = "发布中"; 
+
+/* offer_limit_lbl */ 
+ "offer_limit_lbl" = "前50位顾客可以预定这个优惠."; 
+
+/* published_btn */ 
+ "published_btn" = "发布成功"; 
+

@@ -1,0 +1,108 @@
+/* app_name_lbl */ 
+ "app_name_lbl" = "Yamii for Business"; 
+
+/* add_special_lbl */ 
+ "add_special_lbl" = "Create a special"; 
+
+/* email_lbl */ 
+ "email_lbl" = "Email address"; 
+
+/* password_lbl */ 
+ "password_lbl" = "Password"; 
+
+/* special_lbl */ 
+ "special_lbl" = "Special"; 
+
+/* login_lbl */ 
+ "login_lbl" = "Login"; 
+
+/* logout_lbl */ 
+ "logout_lbl" = "Logout"; 
+
+/* enter_password_msg */ 
+ "enter_password_msg" = "Please enter your password"; 
+
+/* discount_invalid_msg */ 
+ "discount_invalid_msg" = "Discount is invalid."; 
+
+/* login_fail_msg */ 
+ "login_fail_msg" = "An error occurred when logging in, please try again later."; 
+
+/* forget_password_lbl */ 
+ "forget_password_lbl" = "Forget your password?"; 
+
+/* yamii_lbl */ 
+ "yamii_lbl" = "Yamii"; 
+
+/* for_business_lbl */ 
+ "for_business_lbl" = "for Business"; 
+
+/* wake_up_your_customers_lbl */ 
+ "wake_up_your_customers_lbl" = "Wake up your customers"; 
+
+/* normal_price_lbl */ 
+ "normal_price_lbl" = "Normal price"; 
+
+/* special_price_lbl */ 
+ "special_price_lbl" = "Special price"; 
+
+/* discount_smaller_msg */ 
+ "discount_smaller_msg" = "Discount must be at least at 20%!"; 
+
+/* content_hint_lbl */ 
+ "content_hint_lbl" = "What to offer? e.g. Nauravat nakit ranskalaisilla + juoma/Kiinalainen lounas bufetti jälkiruoka sisältäen."; 
+
+/* no_special_content_msg */ 
+ "no_special_content_msg" = "Please enter your special content."; 
+
+/* time_until_lbl */ 
+ "time_until_lbl" = "Valid until:"; 
+
+/* num_of_offers_lbl */ 
+ "num_of_offers_lbl" = "Number of offers:"; 
+
+/* unlimited_lbl */ 
+ "unlimited_lbl" = "unlimited"; 
+
+/* cannot_combine_lbl */ 
+ "cannot_combine_lbl" = "Can not combine with any other offers."; 
+
+/* preview_lbl */ 
+ "preview_lbl" = "Preview"; 
+
+/* send_btn */ 
+ "send_btn" = "Publish"; 
+
+/* sending_msg */ 
+ "sending_msg" = "Publishing, please wait..."; 
+
+/* send_confirm_lbl */ 
+ "send_confirm_lbl" = "Are you sure you want to publish this special?"; 
+
+/* send_confirm_msg */ 
+ "send_confirm_msg" = "You can not modify nor cancel it once the special is published!"; 
+
+/* send_confirm_ok_btn */ 
+ "send_confirm_ok_btn" = "Yes"; 
+
+/* send_confirm_cancel_btn */ 
+ "send_confirm_cancel_btn" = "Check again"; 
+
+/* send_success_msg */ 
+ "send_success_msg" = "The special has been published successfully!"; 
+
+/* send_failure_msg */ 
+ "send_failure_msg" = "An error occurred when publishing your special, please try again later."; 
+
+/* login_wait_msg */ 
+ "login_wait_msg" = "Logging in, please wait..."; 
+
+/* sending_btn */	
+ "sending_btn" = "Publishing"; 
+
+/* offer_limit_lbl */ 
+ "offer_limit_lbl" = "The first 50 people can reserve this offer."; 
+
+/* published_btn */ 
+ "published_btn" = "Published"; 
+

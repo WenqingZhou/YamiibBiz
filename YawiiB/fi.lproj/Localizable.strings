@@ -1,0 +1,108 @@
+/* app_name_lbl */ 
+ "app_name_lbl" = "Yamii for Business"; 
+
+/* add_special_lbl */ 
+ "add_special_lbl" = "Luo tarjous"; 
+
+/* email_lbl */ 
+ "email_lbl" = "S-postiosoite"; 
+
+/* password_lbl */ 
+ "password_lbl" = "Salasana"; 
+
+/* special_lbl */ 
+ "special_lbl" = "Tarjous"; 
+
+/* login_lbl */ 
+ "login_lbl" = "Kirjaudu sisään"; 
+
+/* logout_lbl */ 
+ "logout_lbl" = "Kirjaudu ulos"; 
+
+/* enter_password_msg */ 
+ "enter_password_msg" = "Syötä salasanasi"; 
+
+/* discount_invalid_msg */ 
+ "discount_invalid_msg" = "Tarjous on jo invalidi."; 
+
+/* login_fail_msg */ 
+ "login_fail_msg" = "Tapahtui virhe. Yritä myöhemmin uudelleen."; 
+
+/* forget_password_lbl */ 
+ "forget_password_lbl" = "Unohditko salasanasi?"; 
+
+/* yamii_lbl */ 
+ "yamii_lbl" = "Yamii"; 
+
+/* for_business_lbl */ 
+ "for_business_lbl" = "for Business"; 
+
+/* wake_up_your_customers_lbl */ 
+ "wake_up_your_customers_lbl" = "Herätä asiakkaasi"; 
+
+/* normal_price_lbl */ 
+ "normal_price_lbl" = "Normaalihinta"; 
+
+/* special_price_lbl */ 
+ "special_price_lbl" = "Tarjoushinta"; 
+
+/* discount_smaller_msg */ 
+ "discount_smaller_msg" = "Vähintään 20% alennuksessa!"; 
+
+/* content_hint_lbl */ 
+ "content_hint_lbl" = "Tarjouksen sisältö. Esim. Nauravat nakit ranskalaisilla + juoma/Kiinalainen lounas bufetti jälkiruoka sisältäen."; 
+
+/* no_special_content_msg */ 
+ "no_special_content_msg" = "Laita tarjouksen sisältö."; 
+
+/* time_until_lbl */ 
+ "time_until_lbl" = "Tarjous päättyy kello:"; 
+
+/* num_of_offers_lbl */ 
+ "num_of_offers_lbl" = "Tarjouksien määrä:"; 
+
+/* unlimited_lbl */ 
+ "unlimited_lbl" = "rajaton"; 
+
+/* cannot_combine_lbl */ 
+ "cannot_combine_lbl" = "Ei voi yhdistää muihin tarjouksiin."; 
+
+/* preview_lbl */ 
+ "preview_lbl" = "Esikatsele"; 
+
+/* send_btn */ 
+ "send_btn" = "Julkaise"; 
+
+/* sending_msg */ 
+ "sending_msg" = "Odota hetki kun data lähettämässä"; 
+
+/* send_confirm_lbl */ 
+ "send_confirm_lbl" = "Haluatko varmasti julkista tämä tarjous?"; 
+
+/* send_confirm_msg */ 
+ "send_confirm_msg" = "Tarjous ei voi muokata eikä peruttaa kun se on julkaistu!"; 
+
+/* send_confirm_ok_btn */ 
+ "send_confirm_ok_btn" = "Kyllä"; 
+
+/* send_confirm_cancel_btn */ 
+ "send_confirm_cancel_btn" = "Tarkista uudelleen"; 
+
+/* send_success_msg */ 
+ "send_success_msg" = "Tämä tarjous julkaiseminen onnistui! Oleppa kärsivällinen, teemme odotuksestasi yllätykseen!"; 
+
+/* send_failure_msg */ 
+ "send_failure_msg" = "Tarjous julkaisemisessa tapahtui virhe. Yritä myöhemmin uudelleen."; 
+
+/* login_wait_msg */ 
+ "login_wait_msg" = "Kirjautumassa sisään, odota hetki..."; 
+
+/* sending_btn */ 
+ "sending_btn" = "Julkaisemassa"; 
+
+/* offer_limit_lbl */ 
+ "offer_limit_lbl" = "50 ensimmäistä henkilöä saa tämän tarjouksen."; 
+
+/* published_btn */ 
+ "published_btn" = "Julkstettu"; 
+
