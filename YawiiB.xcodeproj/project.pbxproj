@@ -57,6 +57,10 @@
 		EF370047163EA71E00078E42 /* Constant.m in Sources */ = {isa = PBXBuildFile; fileRef = EF370046163EA71E00078E42 /* Constant.m */; };
 		EF37004A163EB10600078E42 /* UITextField+Validation.m in Sources */ = {isa = PBXBuildFile; fileRef = EF370049163EB10600078E42 /* UITextField+Validation.m */; };
 		EF496ED4167BFFDE0035A17D /* ASIFormDataRequest+YammiService.m in Sources */ = {isa = PBXBuildFile; fileRef = EF496ED3167BFFDE0035A17D /* ASIFormDataRequest+YammiService.m */; };
+		EF4C45AE16B5CC2400439F31 /* yamii.business.57.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4C45AD16B5CC2400439F31 /* yamii.business.57.png */; };
+		EF4C45B016B5CC2D00439F31 /* yamii.business.114.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4C45AF16B5CC2D00439F31 /* yamii.business.114.png */; };
+		EF4C45B116B5CCBC00439F31 /* yamii.business.57.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4C45AD16B5CC2400439F31 /* yamii.business.57.png */; };
+		EF4C45B216B5CCC300439F31 /* yamii.business.114.png in Resources */ = {isa = PBXBuildFile; fileRef = EF4C45AF16B5CC2D00439F31 /* yamii.business.114.png */; };
 		EF5374A616392E0D000F3508 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF5374A516392E0D000F3508 /* UIKit.framework */; };
 		EF5374A816392E0D000F3508 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF5374A716392E0D000F3508 /* Foundation.framework */; };
 		EF5374AA16392E0D000F3508 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF5374A916392E0D000F3508 /* CoreGraphics.framework */; };
@@ -132,13 +136,9 @@
 		EF7A0C3916AF4EE500157F5A /* ViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = EFCF59ED1649996E00DF74D8 /* ViewController_iPhone.xib */; };
 		EF7A0C3A16AF4EE500157F5A /* greenButtonHighlight.png in Resources */ = {isa = PBXBuildFile; fileRef = EF8830E116A32BE60084317C /* greenButtonHighlight.png */; };
 		EF7A0C3B16AF4EE500157F5A /* greenButtonHighlight@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EF8830E216A32BE60084317C /* greenButtonHighlight@2x.png */; };
-		EF7A0C3C16AF4EE500157F5A /* logo.icon.57.png in Resources */ = {isa = PBXBuildFile; fileRef = EF8830E916A33B6B0084317C /* logo.icon.57.png */; };
-		EF7A0C3D16AF4EE500157F5A /* logo.icon.114.png in Resources */ = {isa = PBXBuildFile; fileRef = EF8830EB16A33B720084317C /* logo.icon.114.png */; };
 		EF7A0C3E16AF4EE500157F5A /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EF8830ED16A356D20084317C /* Default-568h@2x.png */; };
 		EF8830E316A32BE60084317C /* greenButtonHighlight.png in Resources */ = {isa = PBXBuildFile; fileRef = EF8830E116A32BE60084317C /* greenButtonHighlight.png */; };
 		EF8830E416A32BE60084317C /* greenButtonHighlight@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EF8830E216A32BE60084317C /* greenButtonHighlight@2x.png */; };
-		EF8830EA16A33B6B0084317C /* logo.icon.57.png in Resources */ = {isa = PBXBuildFile; fileRef = EF8830E916A33B6B0084317C /* logo.icon.57.png */; };
-		EF8830EC16A33B720084317C /* logo.icon.114.png in Resources */ = {isa = PBXBuildFile; fileRef = EF8830EB16A33B720084317C /* logo.icon.114.png */; };
 		EF8830EE16A356D20084317C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EF8830ED16A356D20084317C /* Default-568h@2x.png */; };
 		EFCF59D616491DC100DF74D8 /* en.lproj in Resources */ = {isa = PBXBuildFile; fileRef = EFCF59D316491DC100DF74D8 /* en.lproj */; };
 		EFCF59D716491DC100DF74D8 /* fi.lproj in Resources */ = {isa = PBXBuildFile; fileRef = EFCF59D416491DC100DF74D8 /* fi.lproj */; };
@@ -245,6 +245,8 @@
 		EF370049163EB10600078E42 /* UITextField+Validation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextField+Validation.m"; sourceTree = "<group>"; };
 		EF496ED2167BFFDE0035A17D /* ASIFormDataRequest+YammiService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ASIFormDataRequest+YammiService.h"; sourceTree = "<group>"; };
 		EF496ED3167BFFDE0035A17D /* ASIFormDataRequest+YammiService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ASIFormDataRequest+YammiService.m"; sourceTree = "<group>"; };
+		EF4C45AD16B5CC2400439F31 /* yamii.business.57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yamii.business.57.png; sourceTree = "<group>"; };
+		EF4C45AF16B5CC2D00439F31 /* yamii.business.114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yamii.business.114.png; sourceTree = "<group>"; };
 		EF5374A116392E0D000F3508 /* YawiiB.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YawiiB.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF5374A516392E0D000F3508 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		EF5374A716392E0D000F3508 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -262,8 +264,6 @@
 		EF7A0C4516AF4EE500157F5A /* YawiiB copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "YawiiB copy-Info.plist"; path = "/Users/wenqingzhou/Desktop/YawiiB/YawiiB copy-Info.plist"; sourceTree = "<absolute>"; };
 		EF8830E116A32BE60084317C /* greenButtonHighlight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greenButtonHighlight.png; sourceTree = "<group>"; };
 		EF8830E216A32BE60084317C /* greenButtonHighlight@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "greenButtonHighlight@2x.png"; sourceTree = "<group>"; };
-		EF8830E916A33B6B0084317C /* logo.icon.57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.icon.57.png; sourceTree = "<group>"; };
-		EF8830EB16A33B720084317C /* logo.icon.114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.icon.114.png; sourceTree = "<group>"; };
 		EF8830ED16A356D20084317C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		EFCF59D316491DC100DF74D8 /* en.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = en.lproj; path = YawiiB/en.lproj; sourceTree = "<group>"; };
 		EFCF59D416491DC100DF74D8 /* fi.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; name = fi.lproj; path = YawiiB/fi.lproj; sourceTree = "<group>"; };
@@ -382,8 +382,8 @@
 		EF53749616392E0D000F3508 = {
 			isa = PBXGroup;
 			children = (
-				EF8830EB16A33B720084317C /* logo.icon.114.png */,
-				EF8830E916A33B6B0084317C /* logo.icon.57.png */,
+				EF4C45AF16B5CC2D00439F31 /* yamii.business.114.png */,
+				EF4C45AD16B5CC2400439F31 /* yamii.business.57.png */,
 				EFCF59DB1649237F00DF74D8 /* zh_Hans.lproj */,
 				EFCF59D316491DC100DF74D8 /* en.lproj */,
 				EFCF59D416491DC100DF74D8 /* fi.lproj */,
@@ -581,9 +581,9 @@
 				EFCF59EF1649996E00DF74D8 /* ViewController_iPhone.xib in Resources */,
 				EF8830E316A32BE60084317C /* greenButtonHighlight.png in Resources */,
 				EF8830E416A32BE60084317C /* greenButtonHighlight@2x.png in Resources */,
-				EF8830EA16A33B6B0084317C /* logo.icon.57.png in Resources */,
-				EF8830EC16A33B720084317C /* logo.icon.114.png in Resources */,
 				EF8830EE16A356D20084317C /* Default-568h@2x.png in Resources */,
+				EF4C45B116B5CCBC00439F31 /* yamii.business.57.png in Resources */,
+				EF4C45B216B5CCC300439F31 /* yamii.business.114.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -609,9 +609,9 @@
 				EF7A0C3916AF4EE500157F5A /* ViewController_iPhone.xib in Resources */,
 				EF7A0C3A16AF4EE500157F5A /* greenButtonHighlight.png in Resources */,
 				EF7A0C3B16AF4EE500157F5A /* greenButtonHighlight@2x.png in Resources */,
-				EF7A0C3C16AF4EE500157F5A /* logo.icon.57.png in Resources */,
-				EF7A0C3D16AF4EE500157F5A /* logo.icon.114.png in Resources */,
 				EF7A0C3E16AF4EE500157F5A /* Default-568h@2x.png in Resources */,
+				EF4C45AE16B5CC2400439F31 /* yamii.business.57.png in Resources */,
+				EF4C45B016B5CC2D00439F31 /* yamii.business.114.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

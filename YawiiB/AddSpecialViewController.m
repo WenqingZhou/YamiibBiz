@@ -130,15 +130,14 @@
     NSTimeInterval value=round(timeSlider.value);
     int64_t currentTimestamp=round([[NSDate date] timeIntervalSince1970]);
     int durationInterval=DURATION_INTERVAL;
-    if (currentTimestamp % durationInterval >= durationInterval/2)
-    {
-        currentTimestamp=currentTimestamp + durationInterval - currentTimestamp % durationInterval;
-    }
-    else
+    if (currentTimestamp % durationInterval <= durationInterval/2)
     {
         currentTimestamp=currentTimestamp + 2*durationInterval - currentTimestamp % durationInterval;
     }
-    
+    else
+    {
+        currentTimestamp=currentTimestamp + 3*durationInterval - currentTimestamp % durationInterval;
+    }
     currentTimestamp+=value * durationInterval;
     NSDateFormatter *df=[[NSDateFormatter alloc] init];
     [df setDateFormat:@"HH:mm"];

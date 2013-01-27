@@ -1,108 +1,129 @@
-/* app_name_lbl */ 
- "app_name_lbl" = "Yamii for Business"; 
+/*error_lbl*/
+"error_lbl"="错误";
 
-/* add_special_lbl */ 
- "add_special_lbl" = "新建优惠活动"; 
+/*loading_lbl*/
+"loading_lbl"="载入中";
 
-/* email_lbl */ 
- "email_lbl" = "电子邮件地址"; 
+/*yamii_lbl*/
+"yamii_lbl"="Yamii";
 
-/* password_lbl */ 
- "password_lbl" = "密码"; 
+/*app_name_lbl*/
+"app_name_lbl"="Yamii for Business";
 
-/* special_lbl */ 
- "special_lbl" = "优惠"; 
+/*Key*/
+"Key"="简体中文";
 
-/* login_lbl */ 
- "login_lbl" = "登录"; 
+/*retry_lbl*/
+"retry_lbl"="重试";
 
-/* logout_lbl */ 
- "logout_lbl" = "登出"; 
+/*sending_btn*/
+"sending_btn"="发布中...";
 
-/* enter_password_msg */ 
- "enter_password_msg" = "请输入密码"; 
+/*cannot_combine_lbl*/
+"cannot_combine_lbl"="不能与其他优惠合并使用。";
 
-/* discount_invalid_msg */ 
- "discount_invalid_msg" = "折扣无效"; 
+/*login_lbl*/
+"login_lbl"="登录";
 
-/* login_fail_msg */ 
- "login_fail_msg" = "登录失败, 请稍候再试!"; 
+/*special_lbl*/
+"special_lbl"="优惠";
 
-/* forget_password_lbl */ 
- "forget_password_lbl" = "忘记密码?"; 
+/*send_confirm_msg*/
+"send_confirm_msg"="优惠一旦发布，则不能再修改或删除! 确定要发送这个优惠吗?";
 
-/* yamii_lbl */ 
- "yamii_lbl" = "Yamii"; 
+/*send_confirm_lbl*/
+"send_confirm_lbl"="确认发布";
 
-/* for_business_lbl */ 
- "for_business_lbl" = "for Business"; 
+/*unlimited_lbl*/
+"unlimited_lbl"="无限制";
 
-/* wake_up_your_customers_lbl */ 
- "wake_up_your_customers_lbl" = "Wake up your customers"; 
+/*no_special_content_msg*/
+"no_special_content_msg"="请输入打折内容.";
 
-/* normal_price_lbl */ 
- "normal_price_lbl" = "原价"; 
+/*login_fail_msg*/
+"login_fail_msg"="登录失败, 请稍候再试!";
 
-/* special_price_lbl */ 
- "special_price_lbl" = "特价"; 
+/*enter_lbl*/
+"enter_lbl"="输入";
 
-/* discount_smaller_msg */ 
- "discount_smaller_msg" = "打折幅度不能低于20%!"; 
+/*send_btn*/
+"send_btn"="发布优惠";
 
-/* content_hint_lbl */ 
- "content_hint_lbl" = "打折内容是? 比如, Chinese lunch buffet, including dessert."; 
+/*normal_price_lbl*/
+"normal_price_lbl"="原价";
 
-/* no_special_content_msg */ 
- "no_special_content_msg" = "请输入打折内容."; 
+/*wake_up_your_customers_lbl*/
+"wake_up_your_customers_lbl"="Wake up your customers";
 
-/* time_until_lbl */ 
- "time_until_lbl" = "结束时间:"; 
+/*for_business_lbl*/
+"for_business_lbl"="for Business";
 
-/* num_of_offers_lbl */ 
- "num_of_offers_lbl" = "优惠数量:"; 
+/*enter_password_msg*/
+"enter_password_msg"="请输入密码";
 
-/* unlimited_lbl */ 
- "unlimited_lbl" = "无限制"; 
+/*add_special_lbl*/
+"add_special_lbl"="新建优惠活动";
 
-/* cannot_combine_lbl */ 
- "cannot_combine_lbl" = "不能与其他优惠合并使用。"; 
+/*modify_lbl*/
+"modify_lbl"="修改";
 
-/* preview_lbl */ 
- "preview_lbl" = "预览"; 
+/*published_btn*/
+"published_btn"="发布成功";
 
-/* send_btn */ 
- "send_btn" = "发布优惠"; 
+/*special_price_lbl*/
+"special_price_lbl"="特价";
 
-/* sending_msg */ 
- "sending_msg" = "正在发送，请稍候..."; 
+/*email_lbl*/
+"email_lbl"="电子邮件地址";
 
-/* send_confirm_lbl */ 
- "send_confirm_lbl" = "确认发布"; 
+/*offer_limit_lbl*/
+"offer_limit_lbl"="前%@位顾客可以预定这个优惠.";
 
-/* send_confirm_msg */ 
- "send_confirm_msg" = "优惠一旦发布，则不能再修改或删除! 确定要发送这个优惠吗?"; 
+/*special_found_notify_msg*/
+"special_found_notify_msg"="发现新折扣: %@正在打折 %@, 距离%@.";
 
-/* send_confirm_ok_btn */ 
- "send_confirm_ok_btn" = "确认"; 
+/*content_hint_lbl*/
+"content_hint_lbl"="打折内容是? 比如, Chinese lunch buffet, including dessert.";
 
-/* send_confirm_cancel_btn */ 
- "send_confirm_cancel_btn" = "取消"; 
+/*forget_password_lbl*/
+"forget_password_lbl"="忘记密码?";
 
-/* send_success_msg */ 
- "send_success_msg" = "优惠活动已经发送成功! 耐心等待, 惊喜不断!"; 
+/*send_success_msg*/
+"send_success_msg"="优惠活动已经发送成功! 耐心等待, 惊喜不断!";
 
-/* send_failure_msg */ 
- "send_failure_msg" = "发送失败! 请稍后再试."; 
+/*send_confirm_ok_btn*/
+"send_confirm_ok_btn"="确认";
 
-/* login_wait_msg */ 
- "login_wait_msg" = "正在登录，请稍候"; 
+/*login_wait_msg*/
+"login_wait_msg"="正在登录，请稍候";
 
-/* sending_btn */ 
- "sending_btn" = "发布中"; 
+/*send_failure_msg*/
+"send_failure_msg"="发送失败! 请稍后再试.";
 
-/* offer_limit_lbl */ 
- "offer_limit_lbl" = "前50位顾客可以预定这个优惠."; 
+/*send_confirm_cancel_btn*/
+"send_confirm_cancel_btn"="取消";
 
-/* published_btn */ 
- "published_btn" = "发布成功"; 
+/*sending_msg*/
+"sending_msg"="正在发送，请稍候...";
+
+/*preview_lbl*/
+"preview_lbl"="预览";
+
+/*num_of_offers_lbl*/
+"num_of_offers_lbl"="优惠数量:";
+
+/*discount_smaller_msg*/
+"discount_smaller_msg"="打折幅度不能低于20%!";
+
+/*logout_lbl*/
+"logout_lbl"="登出";
+
+/*password_lbl*/
+"password_lbl"="密码";
+
+/*time_until_lbl*/
+"time_until_lbl"="结束时间:";
+
+/*discount_invalid_msg*/
+"discount_invalid_msg"="折扣无效";
 
